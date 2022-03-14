@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I'm a self-taught passionate BackEnd developer
 
-🌱 I’m currently learning Java
+<!--🌱 I’m currently learning Java -->
 
 💬 Ask me about anything [here](https://github.com/issues)
 
