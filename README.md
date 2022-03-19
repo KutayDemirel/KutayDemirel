@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <br />
 
-<p align="center >I'm a self-taught passionate BackEnd developer</p>
+<p style="text-align: center;">I'm a self-taught passionate BackEnd developer</p>
 
 <!--🌱 I’m currently learning Java -->
 
-<p align="center >💬 Ask me about anything [here](https://github.com/issues)</p>
+<p style="text-align: center;">💬 Ask me about anything [here](https://github.com/issues)</p>
 
 
 <!--
@@ -36,8 +36,3 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KutayDemirel&layout=compact&theme=buefy&hide_border=true"/></p>
 
-
-<!--
-| <a style href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KutayDemirel&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/KutayDemirel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KutayDemirel&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
--->
