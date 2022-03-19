@@ -1,4 +1,4 @@
-<p align="center">## Hi there 👋</p>
+## Hi there 👋
 
 <!--
 **KutayDemirel/KutayDemirel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 <p align="center">I'm a self-taught passionate BackEnd developer</p>
 
 <!--🌱 I’m currently learning Java -->
-
-<p align="center">💬 Ask me about anything [here](https://github.com/issues)</p>
+💬 Ask me about anything [here](https://github.com/issues)
 
 
 <!--
