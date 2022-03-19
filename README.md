@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <br />
 
-<p style="text-align: center;">I'm a self-taught passionate BackEnd developer</p>
+<p align="center">I'm a self-taught passionate BackEnd developer</p>
 
 <!--🌱 I’m currently learning Java -->
 
-<p style="text-align: center;">💬 Ask me about anything [here](https://github.com/issues)</p>
+<center>💬 Ask me about anything [here](https://github.com/issues)</center>
 
 
 <!--
