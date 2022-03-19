@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 <p align="center">I'm a self-taught passionate BackEnd developer</p>
 
 <!--🌱 I’m currently learning Java -->
-💬 Ask me about anything [here](https://github.com/issues)
+<!--💬 Ask me about anything [here](https://github.com/issues)-->
+<p align="center"> 💬 Ask me about anything <a href="https://github.com/issues">here</a></p>
 
 
 <!--
